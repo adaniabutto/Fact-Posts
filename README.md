@@ -16,7 +16,13 @@
 
 **Relevant sources and reports:**
 
-- [B*ericht über den Wissenschaftlichen Nachwuchs an Schweizer Universitäten*, Büro für arbeits- und sozialpolitische Studien BASS (2014)] (https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Forschung/Chancengleichheit/SBFI_formatiert_Kennzahlen_wissNachwuchs_14-09-22.pdf)
+- [*Lancierung der Petition gegen prekäre Anstellungsbedingungen an Schweizer Hochschulen* (Oct 6, 2020)](https://campaign.petition-academia.ch/launch-of-the-petition/#german)
+- [*Dossier zur Petition Academia. Für mehr Festanstellungen im akademischen Bereich:
+Bessere Forschungs-, Lehr- und Arbeitsbedingungen*, Petition Academia (2021)](https://campaign.petition-academia.ch/wp-content/uploads/2021/11/Dossier-Petition-Academia_Deutsch_November.pdf)
+- [*Precarious Working Conditions in Academia
+*, Petition Academia (2021)](https://campaign.petition-academia.ch/precarious-working-conditions-in-academia/)
+- [*Personal der universitären Hochschulen*, SBFS (2018)](https://www.bfs.admin.ch/bfs/de/home/aktuell/neue-veroeffentlichungen.gnpdetail.2019-0031.html)
+- [*Bericht über den Wissenschaftlichen Nachwuchs an Schweizer Universitäten*, Büro für arbeits- und sozialpolitische Studien BASS (2014)] (https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Forschung/Chancengleichheit/SBFI_formatiert_Kennzahlen_wissNachwuchs_14-09-22.pdf)
 - [*Next Generation: Für eine wirksame Nachwuchsförderung*, Schweizerische Akademie der Geistes- und Sozialwissenschaften (2018)]
 (https://www.sagw.ch/fileadmin/redaktion_sagw/dokumente/Publikationen/Berichte/Next_Generation_Deutsch.pdf)
 - [*Zur Diskussion: Qualität vor Quantität*, Schweizerische Akademie der Geistes- und Sozialwissenschaften (2018)] (https://www.sagw.ch/fileadmin/redaktion_sagw/dokumente/Publikationen/Berichte/Qualitaet_vor_Quantitaet_2018.pdf)
@@ -28,3 +34,5 @@
 neue Karriereprofile im
 Wissenschaftssystem*, Schweizerische Akademie der Geistes- und Sozialwissenschaften (2020)](https://www.sagw.ch/fileadmin/redaktion_sagw/dokumente/Publikationen/Berichte/Next_Generation_Third_Space.pdf).
     https://doi.org/10.5281/zenodo.3923494
+- [*Challenging Inequalities and Precarious Working Conditions in Swiss Academic Institutions*, junge akademie schweiz (2021)](https://swissyoungacademy.ch/de/laufende-projekte/projekt-3)
+- [*Bildungs-, Forschungs- und Innovationspolitik des Bundes 2021–2021*, SBFI (2020)](https://www.sbfi.admin.ch/sbfi/de/home/bfi-politik/bfi-2021-2024.html)
